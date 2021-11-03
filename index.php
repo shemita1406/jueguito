@@ -56,7 +56,7 @@
 </style>
 <body>
         <div>
-            <h1>¿Sabias que eres la persona mas increible?</h1>
+            <h1>¿Quieres ser mi novia?</h1>
             <button class="boton" id="btn-si">SI</button>
             <button class="boton" id="btn-no" style="position: absolute;">NO</button>
         </div>
@@ -79,7 +79,7 @@
 
     function myFuncion(){
         Swal.fire({
-            title: 'En verdad que eres la niña mas increible y genial del mundo, saca esa linda sonrisa y oculta esa tristeza tan linda :3',
+            title: 'Sabia que dirias que si amor mio :3',
             width: 600,
             padding: '3em',
             background: '#fff url(https://sweetalert2.github.io/images/trees.png)',
